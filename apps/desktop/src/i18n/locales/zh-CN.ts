@@ -1633,6 +1633,7 @@
     title: "危险操作",
     message: "此 SQL 语句可能不可逆地修改或删除数据，确认要执行吗？",
     suppressFuturePrompts: "以后执行危险 SQL 不再提示",
+    wrapLines: "切换自动换行",
     deleteMessage: "此删除操作可能不可逆，确认要继续吗？",
     deleteConfirm: "确认删除",
     deleteRowMessage: "此行将被标记为删除，保存后会从数据库删除，确认要继续吗？",
